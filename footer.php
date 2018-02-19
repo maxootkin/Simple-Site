@@ -1,0 +1,1 @@
+<footer>Copyright &copy; 2018 <?php echo date('d, m, Y') ?> </footer>
